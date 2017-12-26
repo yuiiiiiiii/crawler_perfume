@@ -1,3 +1,12 @@
 # crawler_perfume
-- provide taobao crawler_by_search
-- provide nosetime crawling 
+- 淘宝根据关键词爬取商品
+- 香水时代
+  - 调香师
+  - 香调
+  - 品牌
+  - 气味
+***
+### 新增功能
+- 商品图片jpg格式爬取
+- 图片识别分类
+> core dump
